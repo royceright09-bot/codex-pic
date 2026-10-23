@@ -1,0 +1,4408 @@
+{
+  "batch": "W1151_20261023",
+  "source_manifest_sha256": "56ef0846278a1f5a5a302d4300842a9dfe22b1897638e3637c5a8ecddd462468",
+  "image_count": 400,
+  "product_count": 50,
+  "images": [
+    {
+      "sku": "W1151P184831",
+      "slot": 1,
+      "path": "assets/W1151P184831/01.jpg",
+      "sha256": "527d37dca057c0ead855597f43133ea1070d3b52af4f6ddc1b9d9690ffb06f0e",
+      "bytes": 935792,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P184831",
+      "slot": 2,
+      "path": "assets/W1151P184831/02.jpg",
+      "sha256": "0181395b1f0972fb5bf4ca0c089e43f807c4a21a91828adcfbaea39f5e4ce4e1",
+      "bytes": 844305,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P184831",
+      "slot": 3,
+      "path": "assets/W1151P184831/03.jpg",
+      "sha256": "6815f9291795b0a3a4379b452813fad22050a7a7ef03a65fb01dc9ab0c70f88b",
+      "bytes": 897331,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P184831",
+      "slot": 4,
+      "path": "assets/W1151P184831/04.jpg",
+      "sha256": "d30cce6efbeee5c67f6332bc55c454f232a659e6695b72f7cc0183986992bc28",
+      "bytes": 827683,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P184831",
+      "slot": 5,
+      "path": "assets/W1151P184831/05.jpg",
+      "sha256": "85d54f8945b222e80b892e722789e44305731646fed1058baf4ee710d6643fe0",
+      "bytes": 851150,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P184831",
+      "slot": 6,
+      "path": "assets/W1151P184831/06.jpg",
+      "sha256": "eb73b550309deee0cba5f7b1223ef330d56b4d3857344c05089f60c984d992d6",
+      "bytes": 783726,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P184831",
+      "slot": 7,
+      "path": "assets/W1151P184831/07.jpg",
+      "sha256": "1317b0caf6bc0b473ba0af73f6fb5ec925efc4de1f7a9de5d43af1b973e9c0cc",
+      "bytes": 821285,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P184831",
+      "slot": 8,
+      "path": "assets/W1151P184831/08.jpg",
+      "sha256": "dd6d09806ed51ea15966800bc5861954e3250d84c460f4925108e30bfeb3cb8e",
+      "bytes": 872827,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P194276",
+      "slot": 1,
+      "path": "assets/W1151P194276/01.jpg",
+      "sha256": "445a48f89e9d5edb79dfb015e4e9336851e3f613904dc41f43cdceabb6f969fd",
+      "bytes": 859461,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P194276",
+      "slot": 2,
+      "path": "assets/W1151P194276/02.jpg",
+      "sha256": "ca7977cc2f61ba24d8e2133278248f79998b5fa5b6ab2fd9be8d63b0f32a85ec",
+      "bytes": 757296,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P194276",
+      "slot": 3,
+      "path": "assets/W1151P194276/03.jpg",
+      "sha256": "8ea6b242ee6e6eb95aa991fa78662e0aeb9922c38e2c62347f3c71c6545e6a90",
+      "bytes": 906266,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P194276",
+      "slot": 4,
+      "path": "assets/W1151P194276/04.jpg",
+      "sha256": "2df796d9690fc472be5587c58b088f9721f000886b1673ec21aa4719da6ce29e",
+      "bytes": 843869,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P194276",
+      "slot": 5,
+      "path": "assets/W1151P194276/05.jpg",
+      "sha256": "9406398278b47d8f0e0b499a9566e6f1dde93b0cbf1d23d91a3eeed16812727e",
+      "bytes": 792811,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P194276",
+      "slot": 6,
+      "path": "assets/W1151P194276/06.jpg",
+      "sha256": "cdb22c7b4f33676e857c3dc6a89365ac5ec76fa04cb495b66d41921f457a8f08",
+      "bytes": 786299,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P194276",
+      "slot": 7,
+      "path": "assets/W1151P194276/07.jpg",
+      "sha256": "de2591e213e37aadd951c6b2aa0fa59127388b30aa137310e4dcb49176c03f7a",
+      "bytes": 826349,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P194276",
+      "slot": 8,
+      "path": "assets/W1151P194276/08.jpg",
+      "sha256": "7fe860d0e618cbc547971c562acdb98697cdff01eeda8aa91d1c7df3ffed01c3",
+      "bytes": 835251,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P209955",
+      "slot": 1,
+      "path": "assets/W1151P209955/01.jpg",
+      "sha256": "3ab4064e1559f16b46e150ec2c1067b1fe6126b0036a29c84e237d6f06394158",
+      "bytes": 606181,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P209955",
+      "slot": 2,
+      "path": "assets/W1151P209955/02.jpg",
+      "sha256": "eec64faf18ca4c730725b1c6c16adb62766cf866887d841e5e8379b9856990c1",
+      "bytes": 566078,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P209955",
+      "slot": 3,
+      "path": "assets/W1151P209955/03.jpg",
+      "sha256": "f2e5835d0b0de2cd8735f42376c4050b283de163ee8188e2d30dbdc70b9f3c35",
+      "bytes": 952398,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P209955",
+      "slot": 4,
+      "path": "assets/W1151P209955/04.jpg",
+      "sha256": "82b0a6af015b29e49be4aa50911244fe6231540c7feee7b17f7dd19ae571b58c",
+      "bytes": 956520,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P209955",
+      "slot": 5,
+      "path": "assets/W1151P209955/05.jpg",
+      "sha256": "5660ab3d68c1cc51bbfb5f878771bba944da40ddf8cac7467c00219b27b886c5",
+      "bytes": 1005272,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P209955",
+      "slot": 6,
+      "path": "assets/W1151P209955/06.jpg",
+      "sha256": "ce784ee3e6bc64559a544da555e2cc5d052ce8fd28c4937148794ddd88f8bb4f",
+      "bytes": 510777,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P209955",
+      "slot": 7,
+      "path": "assets/W1151P209955/07.jpg",
+      "sha256": "c03f3f510054759516b2cce3048c1d31bed7e410f4c054cbde939e7d9ed9029e",
+      "bytes": 641251,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P209955",
+      "slot": 8,
+      "path": "assets/W1151P209955/08.jpg",
+      "sha256": "468a125c05b6a960963b2f0f37fa7a269e45e84359ea12ba02558f5563669679",
+      "bytes": 977634,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211073",
+      "slot": 1,
+      "path": "assets/W1151P211073/01.jpg",
+      "sha256": "acd446c82a8343e10c8de32fc878e5299c079eee22c085f226cd5d69b6a5dd8a",
+      "bytes": 632308,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211073",
+      "slot": 2,
+      "path": "assets/W1151P211073/02.jpg",
+      "sha256": "a19e2f4e2c66fd107b192d15244ae58385aad613ba050369ef9f6469405e3ace",
+      "bytes": 600509,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211073",
+      "slot": 3,
+      "path": "assets/W1151P211073/03.jpg",
+      "sha256": "d41d0a02b051c2143f7afe357b7d4b8686eaab8ca3c8523c18ac6800a6f07b8d",
+      "bytes": 857490,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211073",
+      "slot": 4,
+      "path": "assets/W1151P211073/04.jpg",
+      "sha256": "762837815e480e03ea9d6b10391d2aeb3f1b02c6de525e2fd00dd030dcb4ab2a",
+      "bytes": 926317,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211073",
+      "slot": 5,
+      "path": "assets/W1151P211073/05.jpg",
+      "sha256": "cdcc29edd94b853f1807832747c55e35c23b6bc90ebe0158dcb6cfde916e1a8f",
+      "bytes": 793580,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211073",
+      "slot": 6,
+      "path": "assets/W1151P211073/06.jpg",
+      "sha256": "386a7f61b3b18def5d07e8440d4ef9ab1c4b46d0a358d2bd41df31c9ef3953d3",
+      "bytes": 583717,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211073",
+      "slot": 7,
+      "path": "assets/W1151P211073/07.jpg",
+      "sha256": "8d6309ace31116c0e3c7ae0d19067e902630224d2b12e0a5fd739a7db42dbf17",
+      "bytes": 592391,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211073",
+      "slot": 8,
+      "path": "assets/W1151P211073/08.jpg",
+      "sha256": "c67a6be7205ddf70fe68886a7ecb32bcde887e9320a3ab8394e217f50fe7801f",
+      "bytes": 985637,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211986",
+      "slot": 1,
+      "path": "assets/W1151P211986/01.jpg",
+      "sha256": "e4a828f427837ea2d96e47ec4343499b12c0a34f7bb31670773c2e17bc45bd8f",
+      "bytes": 1057733,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211986",
+      "slot": 2,
+      "path": "assets/W1151P211986/02.jpg",
+      "sha256": "f88e2264f1c67b0d6291ac72fcf79df649886c83a5c0c292186dbab37f97d254",
+      "bytes": 949543,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211986",
+      "slot": 3,
+      "path": "assets/W1151P211986/03.jpg",
+      "sha256": "55f45e3ac52b2866fd4d3c41e1a437a126ce74838f8bbe044230903eaeb8063d",
+      "bytes": 920625,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211986",
+      "slot": 4,
+      "path": "assets/W1151P211986/04.jpg",
+      "sha256": "98eae0bb23d28d64f4afcdbe8653820998a4aa22c5f19cffc2e46630c6eaec6b",
+      "bytes": 992057,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211986",
+      "slot": 5,
+      "path": "assets/W1151P211986/05.jpg",
+      "sha256": "666bd0cb2585fef9b870b1e0ba684352c7aab21493087210d5af24d21edb5cbe",
+      "bytes": 898125,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211986",
+      "slot": 6,
+      "path": "assets/W1151P211986/06.jpg",
+      "sha256": "6bf81e72aab30aee34028e215b5a75bccd5e6dc2b57d18b2eb5cd44aaa294acd",
+      "bytes": 858666,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211986",
+      "slot": 7,
+      "path": "assets/W1151P211986/07.jpg",
+      "sha256": "ef0022f1674b9405e0fc5b93f39abc57cddc8ceffe44d030b12f8e48c44eb273",
+      "bytes": 1043885,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P211986",
+      "slot": 8,
+      "path": "assets/W1151P211986/08.jpg",
+      "sha256": "0a6f6a7aa33db3548bf2a36ffdfaff64968a59e3f66e6e3f19246047a2fe494d",
+      "bytes": 902417,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P235230",
+      "slot": 1,
+      "path": "assets/W1151P235230/01.jpg",
+      "sha256": "b864fc961e8a8d0995331cd6203c67774a8d8dc6f72b3bc9431c72d6188dcebb",
+      "bytes": 923724,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P235230",
+      "slot": 2,
+      "path": "assets/W1151P235230/02.jpg",
+      "sha256": "290d36bfd1e430ffe2609ed85d47d7bc3d36a41fa59d695c54f6f6690548ecce",
+      "bytes": 900970,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P235230",
+      "slot": 3,
+      "path": "assets/W1151P235230/03.jpg",
+      "sha256": "dc4bfc2377fa6c93532c0aebe83eb533fa78ac152101586baf21b04ee2d9ea5c",
+      "bytes": 915179,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P235230",
+      "slot": 4,
+      "path": "assets/W1151P235230/04.jpg",
+      "sha256": "fd86ad4a9bbbcf94bb995db00e1f5e4c1f089bf23ccb872a8014574829b75584",
+      "bytes": 974820,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P235230",
+      "slot": 5,
+      "path": "assets/W1151P235230/05.jpg",
+      "sha256": "50ba8fce14a724f2860900c9b31c9a313ab599d45ab4bb9deb30d3a01f21880f",
+      "bytes": 955192,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P235230",
+      "slot": 6,
+      "path": "assets/W1151P235230/06.jpg",
+      "sha256": "c7345783bc7621bd17d3dd67d0376a181fec8ff3b03d2417e6e2bde4b1bdd473",
+      "bytes": 849498,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P235230",
+      "slot": 7,
+      "path": "assets/W1151P235230/07.jpg",
+      "sha256": "e9295d14541b94ca47a280c2691dc1fc1daed8b329981965e2553debaba7c6a1",
+      "bytes": 943289,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P235230",
+      "slot": 8,
+      "path": "assets/W1151P235230/08.jpg",
+      "sha256": "55e149c7645f70718dcae8df6f8ae0aae14b6c29040d2cf0911e0ce4db9c0e1c",
+      "bytes": 912710,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P263755",
+      "slot": 1,
+      "path": "assets/W1151P263755/01.jpg",
+      "sha256": "550a5e03ff838f46646ba0e621e347ad9cd66767dec522e521656f27d94ca319",
+      "bytes": 899528,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P263755",
+      "slot": 2,
+      "path": "assets/W1151P263755/02.jpg",
+      "sha256": "19c50e96035356d332a486fa3bf7d12be4cc8da82a8a813c61d9ce44acd8379a",
+      "bytes": 900882,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P263755",
+      "slot": 3,
+      "path": "assets/W1151P263755/03.jpg",
+      "sha256": "7c8f26158afc689498401ac169526e8e661d5c19433fbe9809dd68a32fd47709",
+      "bytes": 927315,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P263755",
+      "slot": 4,
+      "path": "assets/W1151P263755/04.jpg",
+      "sha256": "57b2eaafa6f725d67b0abf5f69ec621a658636fb05c9225a86f27d9b149ecb9f",
+      "bytes": 969256,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P263755",
+      "slot": 5,
+      "path": "assets/W1151P263755/05.jpg",
+      "sha256": "35426e04790e5dd18f70db0257095daf060fee615d1f618103054e00f0e24c0b",
+      "bytes": 926028,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P263755",
+      "slot": 6,
+      "path": "assets/W1151P263755/06.jpg",
+      "sha256": "1b5a3396a439b763dd349dfc52c1cdf54b4b79fd359cc1c438e21b26e4a24c31",
+      "bytes": 788479,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P263755",
+      "slot": 7,
+      "path": "assets/W1151P263755/07.jpg",
+      "sha256": "730aacb7d443639c351eead6acdb30190d662a717a1cefbe435e754ea9209510",
+      "bytes": 937791,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P263755",
+      "slot": 8,
+      "path": "assets/W1151P263755/08.jpg",
+      "sha256": "2015932886729a95744909db5c674a5746a9281d9aa503a3d263299e767805f8",
+      "bytes": 904461,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P299549",
+      "slot": 1,
+      "path": "assets/W1151P299549/01.jpg",
+      "sha256": "977ea80ae9ce044515e69b88b8de69c784e7700a645cd40b1105226264beebae",
+      "bytes": 681119,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P299549",
+      "slot": 2,
+      "path": "assets/W1151P299549/02.jpg",
+      "sha256": "d96ba871c4f28564286ab8d1ae0d8121f11258ed2f1987eafa2699708ffddfee",
+      "bytes": 662006,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P299549",
+      "slot": 3,
+      "path": "assets/W1151P299549/03.jpg",
+      "sha256": "cf8ffec6f6d63b298828a409c2b24c86f7c0156264433c4de690fff9dd81edfe",
+      "bytes": 856673,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P299549",
+      "slot": 4,
+      "path": "assets/W1151P299549/04.jpg",
+      "sha256": "462f32cb9c8ccfdca1a966bee8aec44ee95e583bac5ede9f3f06136ff6e39377",
+      "bytes": 895441,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P299549",
+      "slot": 5,
+      "path": "assets/W1151P299549/05.jpg",
+      "sha256": "0fa73995332a4e4334bb1050117aafb26111aea29a8f527d35694d18d81de48b",
+      "bytes": 922698,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P299549",
+      "slot": 6,
+      "path": "assets/W1151P299549/06.jpg",
+      "sha256": "0836ae9509da52e3c88e6082a523fcd0bd8bf58e64bf723fa1f30a2aeab8a10b",
+      "bytes": 584483,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P299549",
+      "slot": 7,
+      "path": "assets/W1151P299549/07.jpg",
+      "sha256": "d26c163ca3502b5f545848057d56f6b1a8034c7e3faf767bd79df59e6335b012",
+      "bytes": 663101,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P299549",
+      "slot": 8,
+      "path": "assets/W1151P299549/08.jpg",
+      "sha256": "7409459f383eabef8ce1c824b74324552e277234977f5670d47dbf83b750ec67",
+      "bytes": 960710,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P301818",
+      "slot": 1,
+      "path": "assets/W1151P301818/01.jpg",
+      "sha256": "e8a6be58ce3145721e474ecad4578ceb6fb5ba920e8955a6da60f3bd06dcbf2d",
+      "bytes": 924291,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P301818",
+      "slot": 2,
+      "path": "assets/W1151P301818/02.jpg",
+      "sha256": "7357e527dd16c9e5a6c4581ce2558db178452804a30bb4834b2a74ed1d89390f",
+      "bytes": 817142,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P301818",
+      "slot": 3,
+      "path": "assets/W1151P301818/03.jpg",
+      "sha256": "256d9901eab984286f896a5e16fa47bfe9540fb6ac80b2ce59c8c8f2c9402774",
+      "bytes": 842753,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P301818",
+      "slot": 4,
+      "path": "assets/W1151P301818/04.jpg",
+      "sha256": "73928da3158508f8becda0bb54982511906c5bf52e7447329529a0293086fa56",
+      "bytes": 849265,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P301818",
+      "slot": 5,
+      "path": "assets/W1151P301818/05.jpg",
+      "sha256": "b94b3dbcaf6e9e4717740a4c28a81742af88daa327b54735b871120fd24f20d2",
+      "bytes": 832708,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P301818",
+      "slot": 6,
+      "path": "assets/W1151P301818/06.jpg",
+      "sha256": "97d367024616a132b89eaf54aa795e05cbed4ff9d088cf9b8cc662058a26f7ab",
+      "bytes": 765230,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P301818",
+      "slot": 7,
+      "path": "assets/W1151P301818/07.jpg",
+      "sha256": "8c8aa962b5d608d01425cc98e0121d1fae1a709b87f395b6d25dfb21cdf1fa4c",
+      "bytes": 886883,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P301818",
+      "slot": 8,
+      "path": "assets/W1151P301818/08.jpg",
+      "sha256": "cce9357174530c59bbf752f968068780f01f085c74a0887cfecd7697805e52d1",
+      "bytes": 874178,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P306740",
+      "slot": 1,
+      "path": "assets/W1151P306740/01.jpg",
+      "sha256": "9ba80fa39a0536b960543b046511ec94d84a742ec88d5ae5a93f07e9a1de092b",
+      "bytes": 988873,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P306740",
+      "slot": 2,
+      "path": "assets/W1151P306740/02.jpg",
+      "sha256": "8a0c23661b2e53e32018dca6a31c170616f40808662a3d6c2b8a8e9ddd993ce4",
+      "bytes": 855648,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P306740",
+      "slot": 3,
+      "path": "assets/W1151P306740/03.jpg",
+      "sha256": "b628b031e8882a6488d445699e15f572e3b468e1eee3036862eefe5949679cdd",
+      "bytes": 898744,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P306740",
+      "slot": 4,
+      "path": "assets/W1151P306740/04.jpg",
+      "sha256": "eab3f293590daeb72c18f490b124d95120a356f74dc8f1c1b4f6c53210aa6f06",
+      "bytes": 933484,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P306740",
+      "slot": 5,
+      "path": "assets/W1151P306740/05.jpg",
+      "sha256": "db0ed7aa78df8f66975f2790d417605a39d8eb2fac2d3b9b95ae35828e01092b",
+      "bytes": 907773,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P306740",
+      "slot": 6,
+      "path": "assets/W1151P306740/06.jpg",
+      "sha256": "1c9ffd4be00ca9b810e934e1564fc58fe1f5b5feb8812b7734fb011d26de7e27",
+      "bytes": 882696,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P306740",
+      "slot": 7,
+      "path": "assets/W1151P306740/07.jpg",
+      "sha256": "a595418fe1f576560af41443c3511c862a6741c32d5333d0a8348bad600b83bf",
+      "bytes": 974983,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P306740",
+      "slot": 8,
+      "path": "assets/W1151P306740/08.jpg",
+      "sha256": "704ced2eb9e77c97dbe4b953ea97a3de70b47b110836e49821496c9939e2a0c0",
+      "bytes": 936010,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P354674",
+      "slot": 1,
+      "path": "assets/W1151P354674/01.jpg",
+      "sha256": "75cebaad1d91cb23b7fbc4cd50d8e1c384b9a553a035a4d04cd57da3a87cff66",
+      "bytes": 1049167,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P354674",
+      "slot": 2,
+      "path": "assets/W1151P354674/02.jpg",
+      "sha256": "34729bda55a932abbc0010d202f3d591a5201f70b823172e6c049650125ece39",
+      "bytes": 998673,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P354674",
+      "slot": 3,
+      "path": "assets/W1151P354674/03.jpg",
+      "sha256": "28f547d3210277f2b5c1241aa83a9f496a243f7e3720031ddd13dc5b147d174e",
+      "bytes": 943720,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P354674",
+      "slot": 4,
+      "path": "assets/W1151P354674/04.jpg",
+      "sha256": "bba85ffdde7d1769d40a79bfaa40a9f7335cc862e7d75630de0c01bf4e1156b7",
+      "bytes": 1033611,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P354674",
+      "slot": 5,
+      "path": "assets/W1151P354674/05.jpg",
+      "sha256": "3efc492b55279c958492683a6e622d56373babc49003ba1c99eb823c5d85978f",
+      "bytes": 901239,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P354674",
+      "slot": 6,
+      "path": "assets/W1151P354674/06.jpg",
+      "sha256": "9d4df6595777dbdfa964bed1240c7c41597ea9c8262c5f6749b5c5cf15da929f",
+      "bytes": 1009937,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P354674",
+      "slot": 7,
+      "path": "assets/W1151P354674/07.jpg",
+      "sha256": "468b6e1ca39636bf903829bca5904c64102f7a106110722018cb0da6cdcbe1d9",
+      "bytes": 1042215,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P354674",
+      "slot": 8,
+      "path": "assets/W1151P354674/08.jpg",
+      "sha256": "adb8488f58b35b7870ebd0ba61e53bd3a1d06705d954dcb92d3976c14976c81c",
+      "bytes": 1018505,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P370776",
+      "slot": 1,
+      "path": "assets/W1151P370776/01.jpg",
+      "sha256": "3edfa93fff4cd516bb168ffc1af05d4be6cea67b5f7b25074977f450499495fe",
+      "bytes": 748302,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P370776",
+      "slot": 2,
+      "path": "assets/W1151P370776/02.jpg",
+      "sha256": "d882d7a30b0897fd5f0fd33bac962d983f133b03707a7d97af0ffc76439d4cb4",
+      "bytes": 906607,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P370776",
+      "slot": 3,
+      "path": "assets/W1151P370776/03.jpg",
+      "sha256": "bee09bcc37a69cc2a1b5245731c4abfae4c4aac20178851aa8ac44fb1ac6adf0",
+      "bytes": 835016,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P370776",
+      "slot": 4,
+      "path": "assets/W1151P370776/04.jpg",
+      "sha256": "b30ae4b8e92f39cc1a5b9449c0e0b00ddf9965062101dfe5cdae3b6a6eadcb51",
+      "bytes": 806538,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P370776",
+      "slot": 5,
+      "path": "assets/W1151P370776/05.jpg",
+      "sha256": "d1f6925583d89ac31f5fd70b9d4ad0ce5e6a6a25d682ebcb3d88a79cde807600",
+      "bytes": 793923,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P370776",
+      "slot": 6,
+      "path": "assets/W1151P370776/06.jpg",
+      "sha256": "5cd4fe4213de8b51d79c6495c5bdc3596c8d195a7fcae05641a8c5d34eb38073",
+      "bytes": 832817,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P370776",
+      "slot": 7,
+      "path": "assets/W1151P370776/07.jpg",
+      "sha256": "2b39c15adfdd8f5235401dd0f7dd19de6432c722319b038240598b26e3632b71",
+      "bytes": 770240,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P370776",
+      "slot": 8,
+      "path": "assets/W1151P370776/08.jpg",
+      "sha256": "890ab648c0a7c6d545aa6ed24c0f22e250bdfb8380d0ddb8428120b6aaa8f499",
+      "bytes": 739800,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P376537",
+      "slot": 1,
+      "path": "assets/W1151P376537/01.jpg",
+      "sha256": "faddb07806da52792e04eb4b36650884187898fb240623b88c1109f76f182207",
+      "bytes": 1103521,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P376537",
+      "slot": 2,
+      "path": "assets/W1151P376537/02.jpg",
+      "sha256": "22d71915d724a1673bf38b6474b9d8a4bff5482ffa48aee216cda0a09e2b8172",
+      "bytes": 879295,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P376537",
+      "slot": 3,
+      "path": "assets/W1151P376537/03.jpg",
+      "sha256": "ddca20fc8d5576996bb4c133b6aba10bbf36f9252cad15446f7b439aeb9f97b0",
+      "bytes": 784052,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P376537",
+      "slot": 4,
+      "path": "assets/W1151P376537/04.jpg",
+      "sha256": "b4374806b346d9cd46f998d5baa2a9a8bb21b66ad6463380fd3262bf9f50daee",
+      "bytes": 956277,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P376537",
+      "slot": 5,
+      "path": "assets/W1151P376537/05.jpg",
+      "sha256": "76cc034f944cd59bb4858cbbfca582cd0b381a97f46c323d9b738be57db52d57",
+      "bytes": 783685,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P376537",
+      "slot": 6,
+      "path": "assets/W1151P376537/06.jpg",
+      "sha256": "8f8614ba0838e519781dd69857a57c99e691238b886e25c1d842ccd5865274af",
+      "bytes": 894127,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P376537",
+      "slot": 7,
+      "path": "assets/W1151P376537/07.jpg",
+      "sha256": "74e80c3a8540210c4cb83c4de21fe954e670fc09a9780264efd4a1c1f1dde2fc",
+      "bytes": 1075039,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P376537",
+      "slot": 8,
+      "path": "assets/W1151P376537/08.jpg",
+      "sha256": "09319739b143276a45be7180dbb579c72edcb44d2f641d651f8f850662fd1309",
+      "bytes": 779512,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P383773",
+      "slot": 1,
+      "path": "assets/W1151P383773/01.jpg",
+      "sha256": "6ef9ceba121a61d6f598889c46ffef0f5a1d021d6519bbbf951f3271b5b65ebd",
+      "bytes": 716294,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P383773",
+      "slot": 2,
+      "path": "assets/W1151P383773/02.jpg",
+      "sha256": "6880e21ce115fc380794dc7fb0dd18a25ee759284d270b046b2d0d0e361e8493",
+      "bytes": 789224,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P383773",
+      "slot": 3,
+      "path": "assets/W1151P383773/03.jpg",
+      "sha256": "39abf8f150609c993f2b9aad17349ea7762fa9e181436fbfa8cdaf8f4212ade2",
+      "bytes": 842533,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P383773",
+      "slot": 4,
+      "path": "assets/W1151P383773/04.jpg",
+      "sha256": "21ec089498d44fb5565ac0d039d3945776f53b0b1dcea3fcf72ed696febb4cfc",
+      "bytes": 699201,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P383773",
+      "slot": 5,
+      "path": "assets/W1151P383773/05.jpg",
+      "sha256": "82ede5c0b4d34a504b186843a43e09946c09c3765186660ed8a57e83d1e4a13d",
+      "bytes": 699139,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P383773",
+      "slot": 6,
+      "path": "assets/W1151P383773/06.jpg",
+      "sha256": "2d2d461a958ffbdbb71fe6aac5d4879a68319d65c62017e36486723c259ba472",
+      "bytes": 854956,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P383773",
+      "slot": 7,
+      "path": "assets/W1151P383773/07.jpg",
+      "sha256": "3028f6bca85fe452092c8e7be50c532332e2ec1ca0561a35b2b49448c5f05f6e",
+      "bytes": 850098,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P383773",
+      "slot": 8,
+      "path": "assets/W1151P383773/08.jpg",
+      "sha256": "f6c348c4d6e6a3ccce019e708e211fe61600f14d56c1efc76e393951ba540ec2",
+      "bytes": 657760,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P389856",
+      "slot": 1,
+      "path": "assets/W1151P389856/01.jpg",
+      "sha256": "75ed524047bb035bc34527bc59d41f6a9882338996b0cac5f5edf1e7f6709ee4",
+      "bytes": 878549,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P389856",
+      "slot": 2,
+      "path": "assets/W1151P389856/02.jpg",
+      "sha256": "4a6994f4822e261d2ac56a49cbb45befb1309c60f490b62d748fb1f56ab9823f",
+      "bytes": 791871,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P389856",
+      "slot": 3,
+      "path": "assets/W1151P389856/03.jpg",
+      "sha256": "295bd2ce638789f9416af996872e52d3a3bf212e0d8b097ea039e93b29920156",
+      "bytes": 804952,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P389856",
+      "slot": 4,
+      "path": "assets/W1151P389856/04.jpg",
+      "sha256": "66d94ff14fabc520027f271537352bf6ef924d2c475ca08e29d65c18edb13304",
+      "bytes": 820259,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P389856",
+      "slot": 5,
+      "path": "assets/W1151P389856/05.jpg",
+      "sha256": "d14572af249aa472009c8ea97428a3d9442da7b32fc720af3533b54f2f98ce49",
+      "bytes": 785131,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P389856",
+      "slot": 6,
+      "path": "assets/W1151P389856/06.jpg",
+      "sha256": "79c6f21e85dace3d236c8e1e25e7d720c91e669e0130e296993bae8b01fd9c36",
+      "bytes": 867931,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P389856",
+      "slot": 7,
+      "path": "assets/W1151P389856/07.jpg",
+      "sha256": "3bf6f42511fd71321ad9a0fc0047b2f66c7f94359416e150f42355e38885182d",
+      "bytes": 874806,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P389856",
+      "slot": 8,
+      "path": "assets/W1151P389856/08.jpg",
+      "sha256": "f37eff5acceb28e41fe31861d630573da55cadb880e03509bd9251bcff36dfbc",
+      "bytes": 785445,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P421942",
+      "slot": 1,
+      "path": "assets/W1151P421942/01.jpg",
+      "sha256": "3bd7dae765391699eb695d17afbc075826dfdf3d33eef3674a6743d0ad5b749a",
+      "bytes": 938335,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P421942",
+      "slot": 2,
+      "path": "assets/W1151P421942/02.jpg",
+      "sha256": "b95ea3fa3bc9ea76478e0a4aff00c93d2e543349ee2eba33f244aa6c068055ad",
+      "bytes": 826714,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P421942",
+      "slot": 3,
+      "path": "assets/W1151P421942/03.jpg",
+      "sha256": "8bf9fe6aecc269770126689979bd5d9c42528d23c5105d1d98a4d71726ab6bf4",
+      "bytes": 881599,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P421942",
+      "slot": 4,
+      "path": "assets/W1151P421942/04.jpg",
+      "sha256": "3e5d047f1796b39f07cde33f50a936484371f3ad993d42015d69a334dc849ff3",
+      "bytes": 925842,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P421942",
+      "slot": 5,
+      "path": "assets/W1151P421942/05.jpg",
+      "sha256": "ab7f0443b7f9caa40b02c13b87e51a83e3f39741c3e55be6a43d0622b4ffac8a",
+      "bytes": 822832,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P421942",
+      "slot": 6,
+      "path": "assets/W1151P421942/06.jpg",
+      "sha256": "a5401aa7ac428e5e9087cf9fb8cc5ec414456233f965e6cdfd3f051984a779a2",
+      "bytes": 922389,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P421942",
+      "slot": 7,
+      "path": "assets/W1151P421942/07.jpg",
+      "sha256": "23b2ea058d88c4c37d9fc8ca9f9e509457e78926f6712d96b464ad2df427edfd",
+      "bytes": 889551,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P421942",
+      "slot": 8,
+      "path": "assets/W1151P421942/08.jpg",
+      "sha256": "c822dff6879d06913f4fc2aaa692ae0e1e7b2ba502a13d0a022dc07e15424cef",
+      "bytes": 866086,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P423230",
+      "slot": 1,
+      "path": "assets/W1151P423230/01.jpg",
+      "sha256": "d75bcad705334be6308eadbceed53dca639ddc79ec2f2916cc41f99f9fc559a9",
+      "bytes": 1040364,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P423230",
+      "slot": 2,
+      "path": "assets/W1151P423230/02.jpg",
+      "sha256": "6268f6afcc9925c28c64bd470300378cac82f8684fe6fb1e537d22b2cebd6d29",
+      "bytes": 924541,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P423230",
+      "slot": 3,
+      "path": "assets/W1151P423230/03.jpg",
+      "sha256": "37b2878136315ce6b81735cee2b218006e119b83edc85f9f598cb7b969c78525",
+      "bytes": 983579,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P423230",
+      "slot": 4,
+      "path": "assets/W1151P423230/04.jpg",
+      "sha256": "1fe2f3897e0e23120267325f74980989b74393b3a6b0bbd36bb965b2716b2da5",
+      "bytes": 891449,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P423230",
+      "slot": 5,
+      "path": "assets/W1151P423230/05.jpg",
+      "sha256": "2366cad06f888de92d0027ec98715c45830ee4804c2e0f81548e36a78d1cd6ce",
+      "bytes": 916517,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P423230",
+      "slot": 6,
+      "path": "assets/W1151P423230/06.jpg",
+      "sha256": "5bf9924490519e9f65fa8631bfe986101cd8882303d38bbf6f0b1f4a6e61dcec",
+      "bytes": 1187282,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P423230",
+      "slot": 7,
+      "path": "assets/W1151P423230/07.jpg",
+      "sha256": "59fbe975a5113cf557efa445a78c2898aaab66408dc13d9fdc3ad9a159394eea",
+      "bytes": 961149,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P423230",
+      "slot": 8,
+      "path": "assets/W1151P423230/08.jpg",
+      "sha256": "e147ae168c536117bb069b1b8623f6e7e501f88c3e30d93c82cbf62d03637eb6",
+      "bytes": 960564,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P428201",
+      "slot": 1,
+      "path": "assets/W1151P428201/01.jpg",
+      "sha256": "41fff5eb4a1250fc012b6bb250c5582bbc4a0dd168e80b6138631216b25c3266",
+      "bytes": 1184416,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P428201",
+      "slot": 2,
+      "path": "assets/W1151P428201/02.jpg",
+      "sha256": "7d0ff95a5357a625f1db16909bb45ce5527142d1a9249cd6555ad7d56c9cb70a",
+      "bytes": 1032294,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P428201",
+      "slot": 3,
+      "path": "assets/W1151P428201/03.jpg",
+      "sha256": "069bed83f53e36e50650c049e07332e78fa67a0fd4d7a6bceb4a34205c3777b3",
+      "bytes": 1043394,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P428201",
+      "slot": 4,
+      "path": "assets/W1151P428201/04.jpg",
+      "sha256": "e3634875576e844d405efe7b8f7335f29dde9152d64c2764d99ab86d7775d5bb",
+      "bytes": 950182,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P428201",
+      "slot": 5,
+      "path": "assets/W1151P428201/05.jpg",
+      "sha256": "23c37f393f7e8ee65c3b27c0bedd2db9df582bd72181ece4c28ec25d384ad076",
+      "bytes": 1023518,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P428201",
+      "slot": 6,
+      "path": "assets/W1151P428201/06.jpg",
+      "sha256": "af975df55e32b6ea3ce49ade0b994cafc6ec8dbca347175671b1c9bc4d437847",
+      "bytes": 1002719,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P428201",
+      "slot": 7,
+      "path": "assets/W1151P428201/07.jpg",
+      "sha256": "f3645d952ec5c2ccb38be5ebc532c9cf2125083024825f4dfa901b4c09afef28",
+      "bytes": 934978,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P428201",
+      "slot": 8,
+      "path": "assets/W1151P428201/08.jpg",
+      "sha256": "be9817984ecb18affcffcb2903c53fd02ad570b5384fe3e774ed2e6ca264fbc1",
+      "bytes": 944828,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431130",
+      "slot": 1,
+      "path": "assets/W1151P431130/01.jpg",
+      "sha256": "7196dbf1c38194cd43763912609cfbc15c75419df4f960e429ea790a60a3e387",
+      "bytes": 941692,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431130",
+      "slot": 2,
+      "path": "assets/W1151P431130/02.jpg",
+      "sha256": "469b2d0d6538c7b9675009e2c5572b2caa2ebe63eecc1d918390f2099319f866",
+      "bytes": 970412,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431130",
+      "slot": 3,
+      "path": "assets/W1151P431130/03.jpg",
+      "sha256": "2af24a4d2af0b3fcac5dd479440e7d7998be04f9a230630288ac77a185143a70",
+      "bytes": 949885,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431130",
+      "slot": 4,
+      "path": "assets/W1151P431130/04.jpg",
+      "sha256": "248fe0bd52d1718af2dfc608a799496c607068d252f156d6c017c55a30b2f74a",
+      "bytes": 982096,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431130",
+      "slot": 5,
+      "path": "assets/W1151P431130/05.jpg",
+      "sha256": "acab4e13102db5da60b4ad66f4c238afb64376a4fb4207c91956b7a8666509d6",
+      "bytes": 900861,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431130",
+      "slot": 6,
+      "path": "assets/W1151P431130/06.jpg",
+      "sha256": "8cee208211cef004a949ad072ef253bcd27e042eb8fb71ac8c65c0a72b6ebe50",
+      "bytes": 878530,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431130",
+      "slot": 7,
+      "path": "assets/W1151P431130/07.jpg",
+      "sha256": "405b45245a2a7d01dca5d2f256330c6fb8654e8c27c949948b10918f0a445b53",
+      "bytes": 954108,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431130",
+      "slot": 8,
+      "path": "assets/W1151P431130/08.jpg",
+      "sha256": "b3d846f8f5c39bdfdd8bbca314b19640d6788da3672abc7e9a49a80a47a64455",
+      "bytes": 908534,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431131",
+      "slot": 1,
+      "path": "assets/W1151P431131/01.jpg",
+      "sha256": "28ede81b9b96def2a3cffc0254e5840446d16b4705faf099bd1d58ed0e07f2e9",
+      "bytes": 995984,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431131",
+      "slot": 2,
+      "path": "assets/W1151P431131/02.jpg",
+      "sha256": "f70d45d3d88cde4deea385eff7dda946b46ef0b53c8df4401507b0139c6b44ed",
+      "bytes": 900667,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431131",
+      "slot": 3,
+      "path": "assets/W1151P431131/03.jpg",
+      "sha256": "09e15c26ad56ebae4dbc0f7a12a91f4185b1d81dd3a9a87dfe765c50f103bc45",
+      "bytes": 997164,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431131",
+      "slot": 4,
+      "path": "assets/W1151P431131/04.jpg",
+      "sha256": "871680275bc35050dbb461e9b6baf2ab716aa108a019669e3c85e02400b7d1bd",
+      "bytes": 998562,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431131",
+      "slot": 5,
+      "path": "assets/W1151P431131/05.jpg",
+      "sha256": "8296d60dbd36d3f9e29e70955d5bce057b76b84c584d615ecb996f22c2d46038",
+      "bytes": 906504,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431131",
+      "slot": 6,
+      "path": "assets/W1151P431131/06.jpg",
+      "sha256": "7836adf60cd9c31cc3e6548687e322c04ddb41191914eb5b098e015600e325d6",
+      "bytes": 831863,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431131",
+      "slot": 7,
+      "path": "assets/W1151P431131/07.jpg",
+      "sha256": "d941ab13aea7727698ad53e65b191a19708598c95f1393709ef2826d55c37105",
+      "bytes": 914347,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431131",
+      "slot": 8,
+      "path": "assets/W1151P431131/08.jpg",
+      "sha256": "cd4869d6288b65778357bca1235a0513b765ac3acf749a55c62d4df490a5b6c6",
+      "bytes": 943617,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431132",
+      "slot": 1,
+      "path": "assets/W1151P431132/01.jpg",
+      "sha256": "4d394c43911233bead14b1f64bf55a50a716261ce7cd8dd1e8d3aa2abe518e76",
+      "bytes": 1031001,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431132",
+      "slot": 2,
+      "path": "assets/W1151P431132/02.jpg",
+      "sha256": "00a67d69b78dbec93b1d8ab0a3d48609e645bc37349a3efb3e3fd2e97534d122",
+      "bytes": 880366,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431132",
+      "slot": 3,
+      "path": "assets/W1151P431132/03.jpg",
+      "sha256": "679e45f9c6ec2392a137e89958e15cad0f9c997e4abd1a9e1821a27bf5a31a91",
+      "bytes": 991450,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431132",
+      "slot": 4,
+      "path": "assets/W1151P431132/04.jpg",
+      "sha256": "71e0835cef541d0008872b594390042412df963425785ccd0ed309fdc51dd389",
+      "bytes": 1031761,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431132",
+      "slot": 5,
+      "path": "assets/W1151P431132/05.jpg",
+      "sha256": "a391002ebcf1913d00d68e2a902c65541e7ce2870712f4ec77218721703d03ce",
+      "bytes": 872814,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431132",
+      "slot": 6,
+      "path": "assets/W1151P431132/06.jpg",
+      "sha256": "dec5328c8fd099750f0dda18a749cc2b17a1e4e881aac272690d79058b3f7755",
+      "bytes": 848217,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431132",
+      "slot": 7,
+      "path": "assets/W1151P431132/07.jpg",
+      "sha256": "5ff81333e1ef1e1fcaab19f2b6c3e4a3c65771ec6ac7da41113538baf74a97f5",
+      "bytes": 865980,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431132",
+      "slot": 8,
+      "path": "assets/W1151P431132/08.jpg",
+      "sha256": "288c651817151cf42b54d4c0f9edefacf2cd6d0dd6b4e3ae99c8d0c4fee6e92a",
+      "bytes": 1026493,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431133",
+      "slot": 1,
+      "path": "assets/W1151P431133/01.jpg",
+      "sha256": "18ce719f46d2c1f215ee8b629eb5a9a145ebf56f41656e17e8beac921faba344",
+      "bytes": 1006022,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431133",
+      "slot": 2,
+      "path": "assets/W1151P431133/02.jpg",
+      "sha256": "f41056a136184b4a22e355f02351bf63fa77154ec658cd46d4a1484eb0bc0414",
+      "bytes": 906704,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431133",
+      "slot": 3,
+      "path": "assets/W1151P431133/03.jpg",
+      "sha256": "0cf7d59ef1dbd56e6992b4162b6b80abead435951ab055cf416317ca8f0cbf18",
+      "bytes": 925096,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431133",
+      "slot": 4,
+      "path": "assets/W1151P431133/04.jpg",
+      "sha256": "75695ca591664ef70468137bdce7985ea2e6ad4db79d3ec284cdef1aa52682d6",
+      "bytes": 905399,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431133",
+      "slot": 5,
+      "path": "assets/W1151P431133/05.jpg",
+      "sha256": "4cf0dd99871023f83e52da540ab4731f3212aa29a29fdd20a4a36fb20eb7e7e4",
+      "bytes": 918517,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431133",
+      "slot": 6,
+      "path": "assets/W1151P431133/06.jpg",
+      "sha256": "dafafede67803f57ab839115211c1ce243cacc7f43da654719ea33951f3dd52d",
+      "bytes": 851563,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431133",
+      "slot": 7,
+      "path": "assets/W1151P431133/07.jpg",
+      "sha256": "c300ba9bad2a1535bc9eae4399a68ee4515fd00834ce6345f266d6ae360312e1",
+      "bytes": 900621,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P431133",
+      "slot": 8,
+      "path": "assets/W1151P431133/08.jpg",
+      "sha256": "5851cd25f42582357f85290326679d3cca1a7498a00505a2ba14c9721e926a04",
+      "bytes": 956210,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433331",
+      "slot": 1,
+      "path": "assets/W1151P433331/01.jpg",
+      "sha256": "780832cb766a58151dfe1d215eb8974ef1889b6810c2fd7ccd3f5de8a9f178a4",
+      "bytes": 907027,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433331",
+      "slot": 2,
+      "path": "assets/W1151P433331/02.jpg",
+      "sha256": "00cbb91996b114d641ebe213a31be7e39f07860fd1f47815a6add2b9e56ae9c3",
+      "bytes": 819052,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433331",
+      "slot": 3,
+      "path": "assets/W1151P433331/03.jpg",
+      "sha256": "f4f9d594eb458d8deea30ddc82c192c874c8b1896710212d329eec0fc4316753",
+      "bytes": 776509,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433331",
+      "slot": 4,
+      "path": "assets/W1151P433331/04.jpg",
+      "sha256": "536e81d145c22502e04a96a48a7f4e16f793e4b371be51ef48051f6ab5e4b48c",
+      "bytes": 844218,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433331",
+      "slot": 5,
+      "path": "assets/W1151P433331/05.jpg",
+      "sha256": "0cf8db36183d6d5c019876a491a8873acc97fc62315b130efba90ed18adadbb9",
+      "bytes": 856313,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433331",
+      "slot": 6,
+      "path": "assets/W1151P433331/06.jpg",
+      "sha256": "0c0411f13e04a534a187746c1e198e19c2bb6d443d334623a3668f1232e26940",
+      "bytes": 890910,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433331",
+      "slot": 7,
+      "path": "assets/W1151P433331/07.jpg",
+      "sha256": "92d522b18c1687949722a5e6bc4fe4253b85f2579e43d8502cd195d5d7a6dc57",
+      "bytes": 876661,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433331",
+      "slot": 8,
+      "path": "assets/W1151P433331/08.jpg",
+      "sha256": "eee62e4feb75ace9738110d55cab83a75622acb6ceb3bfb59c5fb6d596ec4e9b",
+      "bytes": 890880,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433966",
+      "slot": 1,
+      "path": "assets/W1151P433966/01.jpg",
+      "sha256": "fb4aa5cc793e5ac2d951ac471a3016050e7e06fd0170e458d3f38cbf35bb83ed",
+      "bytes": 922218,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433966",
+      "slot": 2,
+      "path": "assets/W1151P433966/02.jpg",
+      "sha256": "13a3657361fd29db65ed06c4215a593bde06d821374734e78db47d5f132cfc88",
+      "bytes": 818506,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433966",
+      "slot": 3,
+      "path": "assets/W1151P433966/03.jpg",
+      "sha256": "1df5f2ca1453ec16a442d3a15fc6af63bfc8e9c9cb9ef7bd776896acbb6a30ed",
+      "bytes": 954122,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433966",
+      "slot": 4,
+      "path": "assets/W1151P433966/04.jpg",
+      "sha256": "70ef6db5b218e079bf9d1c0ef9f664428fef894d98c7d5677fd1863484fb1ef3",
+      "bytes": 891189,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433966",
+      "slot": 5,
+      "path": "assets/W1151P433966/05.jpg",
+      "sha256": "893099c1eb510a65cbda76f63c7b0ed28289d954243089b769f7a5e6543167be",
+      "bytes": 865977,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433966",
+      "slot": 6,
+      "path": "assets/W1151P433966/06.jpg",
+      "sha256": "6f7c793b3c5f6b5a6b7e06e5cce6e334ef108742edaf355b0b301eda9ff894f8",
+      "bytes": 887654,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433966",
+      "slot": 7,
+      "path": "assets/W1151P433966/07.jpg",
+      "sha256": "0696fef7f4e9472059f191b5cc13fccf284256ff415aa6421100c03f2f8a97d4",
+      "bytes": 895069,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433966",
+      "slot": 8,
+      "path": "assets/W1151P433966/08.jpg",
+      "sha256": "32721bafe52d0ea35800bc5249ffd5aa9d18ecf6a23070965e0d54400ef03df4",
+      "bytes": 972974,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433967",
+      "slot": 1,
+      "path": "assets/W1151P433967/01.jpg",
+      "sha256": "3ef6da71c1d44b70e684d7958f4237454ee0841029be899a80cc9142e28021fe",
+      "bytes": 904371,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433967",
+      "slot": 2,
+      "path": "assets/W1151P433967/02.jpg",
+      "sha256": "be47c5e0dc71e03455178a3b4dfde9407ccb108b7b2573b2b50837d9496f0931",
+      "bytes": 908689,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433967",
+      "slot": 3,
+      "path": "assets/W1151P433967/03.jpg",
+      "sha256": "a1630289a1c08c9cb5f5feb492446187f50d1e90405d90c2b70fd0787702b63d",
+      "bytes": 902372,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433967",
+      "slot": 4,
+      "path": "assets/W1151P433967/04.jpg",
+      "sha256": "7d1539b9d48a5b5eae8dbe1d9b18a042f0f2d6b6b3a83ca2d27f606bb947ccd6",
+      "bytes": 868491,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433967",
+      "slot": 5,
+      "path": "assets/W1151P433967/05.jpg",
+      "sha256": "c9c95b8c943ca917ac5b825550772bc3a0e9dee041db1925765246c1f9fefd21",
+      "bytes": 799681,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433967",
+      "slot": 6,
+      "path": "assets/W1151P433967/06.jpg",
+      "sha256": "3587f91620ddc7b2b1a853e0c5c74df6a0ce00f6c19fc3f2088f2afa58ec9a42",
+      "bytes": 848789,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433967",
+      "slot": 7,
+      "path": "assets/W1151P433967/07.jpg",
+      "sha256": "4b08e52abd9a753ba1cd1c4d80f4cfc1a555f2d7146381094abcd57dbdbbd3d1",
+      "bytes": 963764,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P433967",
+      "slot": 8,
+      "path": "assets/W1151P433967/08.jpg",
+      "sha256": "ffaacaca0a8d5f69f72505bca31a0c70b18680213476c2460ae93045d660f16c",
+      "bytes": 956120,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P434795",
+      "slot": 1,
+      "path": "assets/W1151P434795/01.jpg",
+      "sha256": "96729ea656d5a7a606335fec3bf1e495e2da6e693b01b3c78b5eddac98fbe4d0",
+      "bytes": 1051236,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P434795",
+      "slot": 2,
+      "path": "assets/W1151P434795/02.jpg",
+      "sha256": "6380ba0ad71b7840181826dca086ca36c9eb2dbbb26ca44c0216057c63c93725",
+      "bytes": 879584,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P434795",
+      "slot": 3,
+      "path": "assets/W1151P434795/03.jpg",
+      "sha256": "5bce3dfd0b5debf1e1c992ef0da923072cfdf933389e87cd37f68895f5400d23",
+      "bytes": 924453,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P434795",
+      "slot": 4,
+      "path": "assets/W1151P434795/04.jpg",
+      "sha256": "1176d4c12c80b30aa40a85b80aa1b222fe0b9a99680d1399440e4b9f9d90c385",
+      "bytes": 1002515,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P434795",
+      "slot": 5,
+      "path": "assets/W1151P434795/05.jpg",
+      "sha256": "59a5347fb2be42749e6e026c88db06d814ee9cb5990132a253b6b5616ab5dd44",
+      "bytes": 923081,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P434795",
+      "slot": 6,
+      "path": "assets/W1151P434795/06.jpg",
+      "sha256": "716a681281359da650452c41005fdea6bc18601587e664e6101367b627ad08f8",
+      "bytes": 1069600,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P434795",
+      "slot": 7,
+      "path": "assets/W1151P434795/07.jpg",
+      "sha256": "50916b00f64abcfab39b1e611ccb361e217ce256cb1494648423184d2bdbb473",
+      "bytes": 962430,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P434795",
+      "slot": 8,
+      "path": "assets/W1151P434795/08.jpg",
+      "sha256": "bdd5bf81ed8ab74a3643ef3a74821c0a54cfea0a24c8c7031bd74a314f2ef842",
+      "bytes": 942085,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P442910",
+      "slot": 1,
+      "path": "assets/W1151P442910/01.jpg",
+      "sha256": "24775fa126bd3d5ed21085e741d0ef16c17d99ef6f3a35be0697044e4f4685cf",
+      "bytes": 974790,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P442910",
+      "slot": 2,
+      "path": "assets/W1151P442910/02.jpg",
+      "sha256": "a8f2d1d891fda5b3f91aed31bffc9e1085f911dee2d439ee97e916dbdc45feda",
+      "bytes": 934385,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P442910",
+      "slot": 3,
+      "path": "assets/W1151P442910/03.jpg",
+      "sha256": "2b72a523d2e8c3867e580e00399a965c4083302a1285507054fa803fb2f5d9bd",
+      "bytes": 849714,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P442910",
+      "slot": 4,
+      "path": "assets/W1151P442910/04.jpg",
+      "sha256": "003508aa4d1c7ff63504e53b50271b98bda25d29b2c796a1a95ce4945fc9e495",
+      "bytes": 924098,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P442910",
+      "slot": 5,
+      "path": "assets/W1151P442910/05.jpg",
+      "sha256": "91fa8535da118b125749b8ebdc0f068ea7192d7b46e567bbd2340265f7e6a9da",
+      "bytes": 891914,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P442910",
+      "slot": 6,
+      "path": "assets/W1151P442910/06.jpg",
+      "sha256": "f0b125f5d4189dbc4b35986b923f62474d16990f46eab0bbabd633f8885da8e1",
+      "bytes": 962438,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P442910",
+      "slot": 7,
+      "path": "assets/W1151P442910/07.jpg",
+      "sha256": "228b7e41f1a02d65ebf8743e236c6157bc33702d8703b8dd43b49e24819a7e47",
+      "bytes": 945437,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P442910",
+      "slot": 8,
+      "path": "assets/W1151P442910/08.jpg",
+      "sha256": "abb875c7cf06aecbb265367a8927158eba5f13884a000f28f03fe5b2ca90cb84",
+      "bytes": 834320,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447637",
+      "slot": 1,
+      "path": "assets/W1151P447637/01.jpg",
+      "sha256": "b28032484eb292976e85078a5e3745379742274741c614ffa60a9c37cb1268aa",
+      "bytes": 760371,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447637",
+      "slot": 2,
+      "path": "assets/W1151P447637/02.jpg",
+      "sha256": "24c8a7cf33e96cd1cc801c412e3604273d7726d13480fb58c3de6b971499ac60",
+      "bytes": 777063,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447637",
+      "slot": 3,
+      "path": "assets/W1151P447637/03.jpg",
+      "sha256": "d8db621d6431c6f898163b03b84f0f924a2993d43d28dadfd771a95bd6484c29",
+      "bytes": 859402,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447637",
+      "slot": 4,
+      "path": "assets/W1151P447637/04.jpg",
+      "sha256": "53f3838239abb618d2aae7410815e208f4bd22e2e5e382aacca5c323cf3841ea",
+      "bytes": 898842,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447637",
+      "slot": 5,
+      "path": "assets/W1151P447637/05.jpg",
+      "sha256": "64524509fc26948238ddd4273019d67cc0bd5a81b001306dcb77b960c319c525",
+      "bytes": 887376,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447637",
+      "slot": 6,
+      "path": "assets/W1151P447637/06.jpg",
+      "sha256": "15e8b4a1795c680d4a8c21ce70cb99471e34c6e6aafd7817ae0a0cc860be919b",
+      "bytes": 787537,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447637",
+      "slot": 7,
+      "path": "assets/W1151P447637/07.jpg",
+      "sha256": "bbc7f1ea16f886941a919c32250f1ac45aca206119efa40ea017da7a689847e3",
+      "bytes": 841682,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447637",
+      "slot": 8,
+      "path": "assets/W1151P447637/08.jpg",
+      "sha256": "55cbfd54d1fe566d3b5f9f2430d209b5bbb05b528ffac36006d50c5260e244b7",
+      "bytes": 799060,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447638",
+      "slot": 1,
+      "path": "assets/W1151P447638/01.jpg",
+      "sha256": "1d706dc05aa360e9d990d606a6ca8548c98d7efa2d53f3cba56faa76d4bb00ef",
+      "bytes": 950483,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447638",
+      "slot": 2,
+      "path": "assets/W1151P447638/02.jpg",
+      "sha256": "80d834e9fe8bd9aa6b6f1320fc65463c7b5bf239d2671004b96d810c4c4e7e4c",
+      "bytes": 851186,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447638",
+      "slot": 3,
+      "path": "assets/W1151P447638/03.jpg",
+      "sha256": "bda5ca5e489c28b150a437274bdd6fc797095fd174e7114ddfaacdbe15ac71f1",
+      "bytes": 914661,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447638",
+      "slot": 4,
+      "path": "assets/W1151P447638/04.jpg",
+      "sha256": "1a8972a5ecd1ed6919afc277640860e58a11b32734e2b03f52561f2c230ce606",
+      "bytes": 791643,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447638",
+      "slot": 5,
+      "path": "assets/W1151P447638/05.jpg",
+      "sha256": "ea43511e12d0bf0e26ac94f55bc6ad2878938058fe96174229e6172556ed36db",
+      "bytes": 870883,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447638",
+      "slot": 6,
+      "path": "assets/W1151P447638/06.jpg",
+      "sha256": "2430313331793d709f59d70f2929cbb22c0e0ebe266e358f51e8f721a3493231",
+      "bytes": 821208,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447638",
+      "slot": 7,
+      "path": "assets/W1151P447638/07.jpg",
+      "sha256": "023fbfd34b6c9b48b6883bc539af166ad1d89a9ff18c7da66fadde87d68581cd",
+      "bytes": 904716,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447638",
+      "slot": 8,
+      "path": "assets/W1151P447638/08.jpg",
+      "sha256": "49610dedff812844ac2ea5ac25c8f4c9574316b06b476560478d06b1b74af33c",
+      "bytes": 858735,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447639",
+      "slot": 1,
+      "path": "assets/W1151P447639/01.jpg",
+      "sha256": "d4be1dc8bb90dc5621bf640d2d2c496144eebc7e1abcaf4dfb060c957f07f541",
+      "bytes": 863617,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447639",
+      "slot": 2,
+      "path": "assets/W1151P447639/02.jpg",
+      "sha256": "f10b3f02a3ad0aaba7ed92694c4ce26a85f174be53daaad37168141e701d7c52",
+      "bytes": 812748,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447639",
+      "slot": 3,
+      "path": "assets/W1151P447639/03.jpg",
+      "sha256": "d4078759438311c2d841f738400c5c1e78f3477d7dc3b7c65e8915af913819cd",
+      "bytes": 939921,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447639",
+      "slot": 4,
+      "path": "assets/W1151P447639/04.jpg",
+      "sha256": "a61c2e5c57e6675fb0f0b85634d49fc03d380721c1e356910bb6a62299e3c3ce",
+      "bytes": 818195,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447639",
+      "slot": 5,
+      "path": "assets/W1151P447639/05.jpg",
+      "sha256": "25086b9ca1688e8d68cbc82368948c9caffd930ef15dd535478a7c090b2d75d9",
+      "bytes": 785493,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447639",
+      "slot": 6,
+      "path": "assets/W1151P447639/06.jpg",
+      "sha256": "d1b96a84245065857e6a14913e2a7767bf58dedce0ed87eba78e1d8e6b13fdf0",
+      "bytes": 855756,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447639",
+      "slot": 7,
+      "path": "assets/W1151P447639/07.jpg",
+      "sha256": "290f4ff86e64347769930776a8117f9f3cb3b80928b6c17028938240563fc90a",
+      "bytes": 889872,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447639",
+      "slot": 8,
+      "path": "assets/W1151P447639/08.jpg",
+      "sha256": "3aa270875c728d21c883900ef541a4d5560125d2c62dbd509162ec299726177c",
+      "bytes": 854544,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447640",
+      "slot": 1,
+      "path": "assets/W1151P447640/01.jpg",
+      "sha256": "814c56fe5a542f7d355d9ddcd4d0b21a6a80153343586d82d6871ea984d5d1ed",
+      "bytes": 834370,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447640",
+      "slot": 2,
+      "path": "assets/W1151P447640/02.jpg",
+      "sha256": "8237e893a4b9eff51d93d3f243def5b3835467921ceaf67f1c26503fe94f4896",
+      "bytes": 809588,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447640",
+      "slot": 3,
+      "path": "assets/W1151P447640/03.jpg",
+      "sha256": "cd79685465a511315409f04e95913b7b5958f5c4250bce8b5b27dc2c30d6bbf2",
+      "bytes": 937623,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447640",
+      "slot": 4,
+      "path": "assets/W1151P447640/04.jpg",
+      "sha256": "b23e6609a6e30d59bb609d194de51e1db8651337d7eecbd07fd728151983e1be",
+      "bytes": 819232,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447640",
+      "slot": 5,
+      "path": "assets/W1151P447640/05.jpg",
+      "sha256": "16a0f6131620daef711f7ef1adfb4f13f1396135c0a11f0cd195fec112757b70",
+      "bytes": 795957,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447640",
+      "slot": 6,
+      "path": "assets/W1151P447640/06.jpg",
+      "sha256": "d16d0e569977adb6b962e682e87b5dc8ee2cb3166f8df5061a71c32c8ef8e94e",
+      "bytes": 763414,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447640",
+      "slot": 7,
+      "path": "assets/W1151P447640/07.jpg",
+      "sha256": "8ec2e84265ba406dc9465b698ae84650ece2c631fa664af4c47e967b9061b969",
+      "bytes": 806507,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447640",
+      "slot": 8,
+      "path": "assets/W1151P447640/08.jpg",
+      "sha256": "d4ec7839990cd0891c98153832db22b237b3678000712833ed4b81debae52561",
+      "bytes": 849477,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447641",
+      "slot": 1,
+      "path": "assets/W1151P447641/01.jpg",
+      "sha256": "f0ef1f6466fd9185bb5f3b9a626c0dc20f8d13d9b756bc758d7fc525ab3090e5",
+      "bytes": 826102,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447641",
+      "slot": 2,
+      "path": "assets/W1151P447641/02.jpg",
+      "sha256": "93878b65a3042ca1bb601a0d891293cd5db973550263fe3a447c327daacaebbc",
+      "bytes": 821705,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447641",
+      "slot": 3,
+      "path": "assets/W1151P447641/03.jpg",
+      "sha256": "cdb6ecc7731a45ac28002fb852b287d13ebf89a89c2152f21285df4fabddc05f",
+      "bytes": 796820,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447641",
+      "slot": 4,
+      "path": "assets/W1151P447641/04.jpg",
+      "sha256": "bc2e02234f0518d3443439548a7c5f525d0ce70c41e1e93c6cff4fd9ad5d4b5a",
+      "bytes": 718947,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447641",
+      "slot": 5,
+      "path": "assets/W1151P447641/05.jpg",
+      "sha256": "e73aa28e1fe6fdc5687dd97d7351481c81b9068f52fe2d07420e07dfda936493",
+      "bytes": 708230,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447641",
+      "slot": 6,
+      "path": "assets/W1151P447641/06.jpg",
+      "sha256": "d32d5a8ae54d4d65d1b234eee9eb69fc217adb528afddfc7c6f59860faf9504c",
+      "bytes": 642364,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447641",
+      "slot": 7,
+      "path": "assets/W1151P447641/07.jpg",
+      "sha256": "206dc17cc15eeb65e454a24b7918b13a2227c8903ed41f8ed428d65759339b1a",
+      "bytes": 790436,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P447641",
+      "slot": 8,
+      "path": "assets/W1151P447641/08.jpg",
+      "sha256": "988e1ed3421377d730f14470a08a99a8041f2409e5fc9a6efefb410a10371fa6",
+      "bytes": 871973,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448971",
+      "slot": 1,
+      "path": "assets/W1151P448971/01.jpg",
+      "sha256": "7952fced15f5811d3d30378a392800b780262c2ae5853990dc0c65a8a9bfee0a",
+      "bytes": 961043,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448971",
+      "slot": 2,
+      "path": "assets/W1151P448971/02.jpg",
+      "sha256": "cd1329eb61dc9b1937d95ea356bf43b63354d2bbfe276dcae402413923d582da",
+      "bytes": 764118,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448971",
+      "slot": 3,
+      "path": "assets/W1151P448971/03.jpg",
+      "sha256": "6c1485e1b4023f9138490e9c9839e7af91e1ac3cf58cc0857a0da6e6866c3471",
+      "bytes": 958653,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448971",
+      "slot": 4,
+      "path": "assets/W1151P448971/04.jpg",
+      "sha256": "5f0f6c040933e673a022b2d740d6a2ff2c08e8c2c428720b329e5d2cae5ec999",
+      "bytes": 855680,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448971",
+      "slot": 5,
+      "path": "assets/W1151P448971/05.jpg",
+      "sha256": "dc92432293e397629561e02f764ee7d52c51083e58c9eb0563862c6822538b4d",
+      "bytes": 854934,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448971",
+      "slot": 6,
+      "path": "assets/W1151P448971/06.jpg",
+      "sha256": "41f991a59ce215effbd83dc892fe89abcc77604e47290ecff881c0138b6dd6c9",
+      "bytes": 869343,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448971",
+      "slot": 7,
+      "path": "assets/W1151P448971/07.jpg",
+      "sha256": "3ad42b00109c87b479c2cb345b37b499b0ac3be43d7c2faf9652c17ac40fb09e",
+      "bytes": 881927,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448971",
+      "slot": 8,
+      "path": "assets/W1151P448971/08.jpg",
+      "sha256": "c06ee3c78b9a4ca23a4fc1be8c8888568845d8fa8fd861a0f95fe50a6c5dcbcb",
+      "bytes": 911783,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448972",
+      "slot": 1,
+      "path": "assets/W1151P448972/01.jpg",
+      "sha256": "dd6a55eb42791e2a60abd09f1cc79075be422c3cdf0ece3048ada7312ac126b6",
+      "bytes": 986440,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448972",
+      "slot": 2,
+      "path": "assets/W1151P448972/02.jpg",
+      "sha256": "bb46e0a94b824f484089e6b0437dac7f7e5da2cd5fefaf53aebd1e87c824032d",
+      "bytes": 858181,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448972",
+      "slot": 3,
+      "path": "assets/W1151P448972/03.jpg",
+      "sha256": "e2deeff6eefce03224f1b263c87b32e32e07f330e659717330bd26d8771d0bf9",
+      "bytes": 948858,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448972",
+      "slot": 4,
+      "path": "assets/W1151P448972/04.jpg",
+      "sha256": "a5e60c37d23cdafde3ec3b85d22988a428eb5c138f9672998c82ae2e3bf5ca2e",
+      "bytes": 891322,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448972",
+      "slot": 5,
+      "path": "assets/W1151P448972/05.jpg",
+      "sha256": "0eabc5545b9f2159f909a3bd33e36d66b66b796cb018ce23f0a2da9817421058",
+      "bytes": 899949,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448972",
+      "slot": 6,
+      "path": "assets/W1151P448972/06.jpg",
+      "sha256": "6440eee4d64195670a6a0e375566d093a9a01f24d5a1f00e98dd025a03893db0",
+      "bytes": 850938,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448972",
+      "slot": 7,
+      "path": "assets/W1151P448972/07.jpg",
+      "sha256": "60cba60c63c70e29d8b0c31c5039c01f4933b2c372b1d643ccaee1557352b9e8",
+      "bytes": 866361,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P448972",
+      "slot": 8,
+      "path": "assets/W1151P448972/08.jpg",
+      "sha256": "94bfa2ad5f630fcbc730e8ca2a092d9ba1279fe445cdb2390c7dd9f07c864228",
+      "bytes": 895975,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457592",
+      "slot": 1,
+      "path": "assets/W1151P457592/01.jpg",
+      "sha256": "1f308596bb7c46cfb66969261bc72019f0b4eec075f9c391af722adfe6d170d6",
+      "bytes": 901949,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457592",
+      "slot": 2,
+      "path": "assets/W1151P457592/02.jpg",
+      "sha256": "5b73fd70ad318437434d4e4db13177084155df9b6a8d8c229acedcac8a614a8d",
+      "bytes": 921923,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457592",
+      "slot": 3,
+      "path": "assets/W1151P457592/03.jpg",
+      "sha256": "464d3b372caac50520c51605129c6042b39cd53ce87b98391c7ed05edaff40b3",
+      "bytes": 934947,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457592",
+      "slot": 4,
+      "path": "assets/W1151P457592/04.jpg",
+      "sha256": "1305b4e2f919e0d5581bbff6e838b48bc1d25ef011f5836b30a2de3500b065ec",
+      "bytes": 915639,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457592",
+      "slot": 5,
+      "path": "assets/W1151P457592/05.jpg",
+      "sha256": "4d80b6b3d1d4c5a0c211ae2e84444b1b4c788583ba7ea2ae5f69567ddff82ce4",
+      "bytes": 838310,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457592",
+      "slot": 6,
+      "path": "assets/W1151P457592/06.jpg",
+      "sha256": "2719c9a49c597ba27b0446546ba347009130ba4f269e31767e6eb80688cb0511",
+      "bytes": 904631,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457592",
+      "slot": 7,
+      "path": "assets/W1151P457592/07.jpg",
+      "sha256": "a92535575e9a4f1a79d2554b1f845bc0c110ef6edef5ece21910ecad8a988215",
+      "bytes": 881888,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457592",
+      "slot": 8,
+      "path": "assets/W1151P457592/08.jpg",
+      "sha256": "85119e0456216960756dbb073f3748062a586aac821db0fb86602cf0635acc83",
+      "bytes": 936345,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457593",
+      "slot": 1,
+      "path": "assets/W1151P457593/01.jpg",
+      "sha256": "7941fc28a4bad6e3b705a90c8df1dfd217371e6c27d9dc79055001a74afb47fe",
+      "bytes": 1001884,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457593",
+      "slot": 2,
+      "path": "assets/W1151P457593/02.jpg",
+      "sha256": "51f94f09f0e577c74c9cee08d4dbd9c032ea315773b96720f0e9ee0ccbaceabe",
+      "bytes": 861355,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457593",
+      "slot": 3,
+      "path": "assets/W1151P457593/03.jpg",
+      "sha256": "55cbe11daff14cdd5abe2972d9ad3ccafddffcc7a7f1a04dd891b021128f10b9",
+      "bytes": 963824,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457593",
+      "slot": 4,
+      "path": "assets/W1151P457593/04.jpg",
+      "sha256": "9eaffd909c7eb11d2e32672fceccda193382b9b78d8eeeadf3b0d9985d484b1d",
+      "bytes": 882931,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457593",
+      "slot": 5,
+      "path": "assets/W1151P457593/05.jpg",
+      "sha256": "daf5f7ff7a703d0d7b047e2f4c1aadeae23481f10b85696804a519e29a7c9d10",
+      "bytes": 905191,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457593",
+      "slot": 6,
+      "path": "assets/W1151P457593/06.jpg",
+      "sha256": "2c40a95f1216fecb645f394903749f22c39d3bc4cae802303dd07a94366faa57",
+      "bytes": 778737,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457593",
+      "slot": 7,
+      "path": "assets/W1151P457593/07.jpg",
+      "sha256": "89395beb9e0fc93c32bbf6a78c16f084d01254cc2ab2f5d8af2d6ec24a36d794",
+      "bytes": 854354,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457593",
+      "slot": 8,
+      "path": "assets/W1151P457593/08.jpg",
+      "sha256": "374a9199044f0f994bdab7411be2e21e836c39cbcb7e944fd0278448af464158",
+      "bytes": 914091,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457594",
+      "slot": 1,
+      "path": "assets/W1151P457594/01.jpg",
+      "sha256": "2b28399dd5f515bed264ab00f7673c154d7b1b96ee1cd06cdafcc8af0a39c1a1",
+      "bytes": 1011874,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457594",
+      "slot": 2,
+      "path": "assets/W1151P457594/02.jpg",
+      "sha256": "bfcd28d7a6bbb6c7ba0b1d91bafb7ff96debe0f50a48fa8120f26e52325e964d",
+      "bytes": 874938,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457594",
+      "slot": 3,
+      "path": "assets/W1151P457594/03.jpg",
+      "sha256": "19be8059a234fbe1c35e938184064c28d6f6bc0e0af17243d9703e5c3c468150",
+      "bytes": 935035,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457594",
+      "slot": 4,
+      "path": "assets/W1151P457594/04.jpg",
+      "sha256": "53eb663ceaa0e6f6a510b0922f4de727c799b87961d95c252ba0580c28fbfad4",
+      "bytes": 949651,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457594",
+      "slot": 5,
+      "path": "assets/W1151P457594/05.jpg",
+      "sha256": "3d29d0273b4ca0208cf3882ae234c61c6232bae0d87ec6585e174ee5cd7e8161",
+      "bytes": 909195,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457594",
+      "slot": 6,
+      "path": "assets/W1151P457594/06.jpg",
+      "sha256": "677a85b89d8cdc5eae44ef1571c519b76a772d082c81d3ddeb281c1074011cc1",
+      "bytes": 845743,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457594",
+      "slot": 7,
+      "path": "assets/W1151P457594/07.jpg",
+      "sha256": "87c7391058d4323502a40968d9f4fbc1d2c3a859d86afa9b219b831ec26b16e2",
+      "bytes": 910954,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P457594",
+      "slot": 8,
+      "path": "assets/W1151P457594/08.jpg",
+      "sha256": "fa4e50084d39a9398d96482aacf46bf62aff54af42b46b42b8697905b5ce6cf2",
+      "bytes": 869422,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458013",
+      "slot": 1,
+      "path": "assets/W1151P458013/01.jpg",
+      "sha256": "0294adf1d10189bdf16e43afbcd03d6e618f4966acd9cce7a46c9b4c4f508c5f",
+      "bytes": 1020355,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458013",
+      "slot": 2,
+      "path": "assets/W1151P458013/02.jpg",
+      "sha256": "43fef0ec2fdd61f789969fe2ba77b2e0caa36b93e20d1f2ea987fa4cad8d01dc",
+      "bytes": 941158,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458013",
+      "slot": 3,
+      "path": "assets/W1151P458013/03.jpg",
+      "sha256": "a68de91754e14a6543ae8b58e3e6c92419cf4f58217351e639eaef71d7e5e792",
+      "bytes": 1040507,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458013",
+      "slot": 4,
+      "path": "assets/W1151P458013/04.jpg",
+      "sha256": "d9869e6777d33c1cd2eef3c37cf69a32302d137a1e0293d033586302fe7312f8",
+      "bytes": 1041863,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458013",
+      "slot": 5,
+      "path": "assets/W1151P458013/05.jpg",
+      "sha256": "559db40032de4c3fc1ab43f062129aba53c70a52233abff35b347dadbb86f90c",
+      "bytes": 953404,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458013",
+      "slot": 6,
+      "path": "assets/W1151P458013/06.jpg",
+      "sha256": "d78d38141868543f9b220c991ba8d042c0787e6f623ab3e89968999271ffcba2",
+      "bytes": 1040024,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458013",
+      "slot": 7,
+      "path": "assets/W1151P458013/07.jpg",
+      "sha256": "83bb7e89689459c99093b12d4d4e03be22335f9947b7c7fce1a3359c0197729c",
+      "bytes": 1060023,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458013",
+      "slot": 8,
+      "path": "assets/W1151P458013/08.jpg",
+      "sha256": "7542621df99bbc1833283375f866cc67618e08f9e76b45930c36634cfcb29202",
+      "bytes": 1019174,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458014",
+      "slot": 1,
+      "path": "assets/W1151P458014/01.jpg",
+      "sha256": "4fcd25c409352b6c23c984696b38ab58b00e7a4f4451afe7de67ef303655d6be",
+      "bytes": 998143,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458014",
+      "slot": 2,
+      "path": "assets/W1151P458014/02.jpg",
+      "sha256": "b3cdf631c261f6d1cb4657bac9c3f96edef7f5e7a153c297a69cd9000bd829df",
+      "bytes": 764441,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458014",
+      "slot": 3,
+      "path": "assets/W1151P458014/03.jpg",
+      "sha256": "870253b332a979b2e121e5ff09b53c6b7e120747f0b870703b33e664b0d3af10",
+      "bytes": 840056,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458014",
+      "slot": 4,
+      "path": "assets/W1151P458014/04.jpg",
+      "sha256": "08c1a44b5fd42cd0cd10852abb0d14da194c00f17abb7383835a9d732bc31258",
+      "bytes": 903408,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458014",
+      "slot": 5,
+      "path": "assets/W1151P458014/05.jpg",
+      "sha256": "137d4405a2bcfa43293339c8de31161a40a9022604b96e744cb25d1bff256cb3",
+      "bytes": 876690,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458014",
+      "slot": 6,
+      "path": "assets/W1151P458014/06.jpg",
+      "sha256": "33c9a03fa90a169750c23500f1845bec28f6459c85842d116fef1e456da736c7",
+      "bytes": 826982,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458014",
+      "slot": 7,
+      "path": "assets/W1151P458014/07.jpg",
+      "sha256": "ca39fcb3db159018c47cee36759480f930dd7e5aca34a86811a598c0cb146df0",
+      "bytes": 865192,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458014",
+      "slot": 8,
+      "path": "assets/W1151P458014/08.jpg",
+      "sha256": "d2dd4f27a99440a89203ce8aaf148c892abc8ff02955931b22bc67c9910317f8",
+      "bytes": 874197,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458019",
+      "slot": 1,
+      "path": "assets/W1151P458019/01.jpg",
+      "sha256": "309243ef16ead86a61ffb09e8b2d99dc9238f1a894a0970160bb9ac2ac42123d",
+      "bytes": 886967,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458019",
+      "slot": 2,
+      "path": "assets/W1151P458019/02.jpg",
+      "sha256": "d0bdc34894a526a98fe8735bd6563d7dda1b3ec747cc631596725bfa030bd4a0",
+      "bytes": 894657,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458019",
+      "slot": 3,
+      "path": "assets/W1151P458019/03.jpg",
+      "sha256": "b6b25a778b1063bdbf2f9d9ebff945504336aacae627dc180749e62a14baac41",
+      "bytes": 910809,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458019",
+      "slot": 4,
+      "path": "assets/W1151P458019/04.jpg",
+      "sha256": "d65c39d5da5125132d517af22289da411edf57ea680508013d0dbef4172beac0",
+      "bytes": 923715,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458019",
+      "slot": 5,
+      "path": "assets/W1151P458019/05.jpg",
+      "sha256": "d2e634c35d7020a8648c7f65a0e03102e36b73d4c9aa052c3d11104de094014f",
+      "bytes": 814871,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458019",
+      "slot": 6,
+      "path": "assets/W1151P458019/06.jpg",
+      "sha256": "5cfc6d569a8286e3b8f6ccf52ad83a15e8ef6418da60aaecd1d9eaba2090ec05",
+      "bytes": 1027247,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458019",
+      "slot": 7,
+      "path": "assets/W1151P458019/07.jpg",
+      "sha256": "2ec4b0b3e8b2bb4ffedbe819e53103976ebb85086468852da6fdc44279d860e6",
+      "bytes": 852833,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458019",
+      "slot": 8,
+      "path": "assets/W1151P458019/08.jpg",
+      "sha256": "a01a2e0ffff4e818d93f370774e393d5911806b704449436d620df696e53de26",
+      "bytes": 970239,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458846",
+      "slot": 1,
+      "path": "assets/W1151P458846/01.jpg",
+      "sha256": "7d6c86619c8dd30ee425801535450be2ebbcccea8d857c57e0a46c6d8aab2de7",
+      "bytes": 1039444,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458846",
+      "slot": 2,
+      "path": "assets/W1151P458846/02.jpg",
+      "sha256": "efb4c5c5861532c4c5d7a41a3459ebfe05ecde38480351f284ec989defd40488",
+      "bytes": 862061,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458846",
+      "slot": 3,
+      "path": "assets/W1151P458846/03.jpg",
+      "sha256": "5bec26e99793b958f2abe1e9828cbc72c3da97082ef2bd267452dec464308c37",
+      "bytes": 930409,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458846",
+      "slot": 4,
+      "path": "assets/W1151P458846/04.jpg",
+      "sha256": "e48b933b70762ab6450d5022b3f77ec4e060e4bab2ccbac9950d40f394eebfa9",
+      "bytes": 1012644,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458846",
+      "slot": 5,
+      "path": "assets/W1151P458846/05.jpg",
+      "sha256": "ed03e9c5fb12baa49593cbf315293b42a70dcddbfa390a3a6b77a687b8c28a0e",
+      "bytes": 877847,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458846",
+      "slot": 6,
+      "path": "assets/W1151P458846/06.jpg",
+      "sha256": "d2571f4611869ee22f6e665a06fd878324a839a4c47d97794bf908bb536e989e",
+      "bytes": 836198,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458846",
+      "slot": 7,
+      "path": "assets/W1151P458846/07.jpg",
+      "sha256": "8be1478755936d66c240a38604004943854ca7579265d04a6a24744ac9ec424a",
+      "bytes": 910742,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P458846",
+      "slot": 8,
+      "path": "assets/W1151P458846/08.jpg",
+      "sha256": "7d4320670d2cb5f93398cad086086ab18fb9db68317cd54c7644814271bc9024",
+      "bytes": 936136,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P462911",
+      "slot": 1,
+      "path": "assets/W1151P462911/01.jpg",
+      "sha256": "27f930bc8d2dcb0c7e7118afdb39701156580e4cdbc5ff7baa63a9c3a9f2805a",
+      "bytes": 1012776,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P462911",
+      "slot": 2,
+      "path": "assets/W1151P462911/02.jpg",
+      "sha256": "fe25c39373e7bb04b8d197fc8bad2349c360cb086f821f1ce733b65a2cdcb240",
+      "bytes": 916179,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P462911",
+      "slot": 3,
+      "path": "assets/W1151P462911/03.jpg",
+      "sha256": "a4f3c9ce1080e78cfd884c64d38727ddbc5a75b1d8d2beb968f294378974cca6",
+      "bytes": 972200,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P462911",
+      "slot": 4,
+      "path": "assets/W1151P462911/04.jpg",
+      "sha256": "832de8ccaceb8711d4dbaa1108fc500c1219e38724f186a39c4cdec6f892a598",
+      "bytes": 924845,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P462911",
+      "slot": 5,
+      "path": "assets/W1151P462911/05.jpg",
+      "sha256": "b941286c65a37a73485229f1ae37e99cc4bcde6d8cd3908fec86905863e56098",
+      "bytes": 950707,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P462911",
+      "slot": 6,
+      "path": "assets/W1151P462911/06.jpg",
+      "sha256": "6cae69302dd10f8e874abe619d98167ebd12559791d8554ac7ea4fd07753814d",
+      "bytes": 1026641,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P462911",
+      "slot": 7,
+      "path": "assets/W1151P462911/07.jpg",
+      "sha256": "1c3267b7a15acc93378ad5347d1a6ca385fafdc43ec9ac2daa12e9fd2048f0a2",
+      "bytes": 1019381,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P462911",
+      "slot": 8,
+      "path": "assets/W1151P462911/08.jpg",
+      "sha256": "b463390354d6f3d9b00404f1466756c5bc1d8a19f5aa10f1201dd23fe41c38fc",
+      "bytes": 1002073,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P463592",
+      "slot": 1,
+      "path": "assets/W1151P463592/01.jpg",
+      "sha256": "68da993c127c9a4b778ebb663659b80afe733e189f94be7e23850e799b39b517",
+      "bytes": 903530,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P463592",
+      "slot": 2,
+      "path": "assets/W1151P463592/02.jpg",
+      "sha256": "f7e168a75ccd7e6cf1107ff098ef2cb85af8e63372dde1f24f7275d2b3f7225b",
+      "bytes": 933091,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P463592",
+      "slot": 3,
+      "path": "assets/W1151P463592/03.jpg",
+      "sha256": "b79e0ae41755103b4a15024e2f91f8c153e978d588debb058ccb2fe30a0df72c",
+      "bytes": 883947,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P463592",
+      "slot": 4,
+      "path": "assets/W1151P463592/04.jpg",
+      "sha256": "b16b4ce3cbf285dd418b7e43d246c3011d5553a3ed82951f0ad03f25be1e1a48",
+      "bytes": 826137,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P463592",
+      "slot": 5,
+      "path": "assets/W1151P463592/05.jpg",
+      "sha256": "81cbeef31e7ec3080aebe6222e163306a901e5fa466c41821b64ba77611c2353",
+      "bytes": 877499,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P463592",
+      "slot": 6,
+      "path": "assets/W1151P463592/06.jpg",
+      "sha256": "0c5b8923c4bc50b29423e9fd9a8d9978f4e09daa80c51852a547a073a07adaa6",
+      "bytes": 835541,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P463592",
+      "slot": 7,
+      "path": "assets/W1151P463592/07.jpg",
+      "sha256": "22b9929c6f11e6b89c5f89766822eb08670523d1edc92318dfa28c34d000d758",
+      "bytes": 905344,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P463592",
+      "slot": 8,
+      "path": "assets/W1151P463592/08.jpg",
+      "sha256": "a4b60799319c42cf322675bd81d47eebb0c60b50b399f6b758476abc2989f761",
+      "bytes": 885360,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P482751",
+      "slot": 1,
+      "path": "assets/W1151P482751/01.jpg",
+      "sha256": "eaaabb8bf85b476b3536ca5684e83955a70f8d27a51c380fe2049ce127c724be",
+      "bytes": 688351,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P482751",
+      "slot": 2,
+      "path": "assets/W1151P482751/02.jpg",
+      "sha256": "7f951c955975e0e67526f8bf3b7440885088e5d0738566cc6cf59344f1025acd",
+      "bytes": 637802,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P482751",
+      "slot": 3,
+      "path": "assets/W1151P482751/03.jpg",
+      "sha256": "4380825bf74ae907f93246bcc39e7facd55ad23c32791e65909b45d72f6bc9f8",
+      "bytes": 913094,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P482751",
+      "slot": 4,
+      "path": "assets/W1151P482751/04.jpg",
+      "sha256": "719ad238d25f4d92103cc6cb49165834400ef178501dfd1b66409d107e7a7b06",
+      "bytes": 927487,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P482751",
+      "slot": 5,
+      "path": "assets/W1151P482751/05.jpg",
+      "sha256": "0027fecb6cbbbd37acb47b7a75c772e67173b89d7d559f39ac040d3d4cd6f84b",
+      "bytes": 915781,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P482751",
+      "slot": 6,
+      "path": "assets/W1151P482751/06.jpg",
+      "sha256": "ba0aa3ab905ea95c20e082e33dd765e72fa9dcb37b7fe02d5f96e695fdf789e4",
+      "bytes": 651834,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P482751",
+      "slot": 7,
+      "path": "assets/W1151P482751/07.jpg",
+      "sha256": "e3992efe400f53b1b7c2444570261b95e16b4c602f0b922e44a6dbfa77276784",
+      "bytes": 668654,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P482751",
+      "slot": 8,
+      "path": "assets/W1151P482751/08.jpg",
+      "sha256": "4ad4241b182111092cf65e2f9b30697e04d8e4cc3064b7ca2d7286b32ecd1763",
+      "bytes": 927544,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P483778",
+      "slot": 1,
+      "path": "assets/W1151P483778/01.jpg",
+      "sha256": "4cf9c784fa4301cb5304916a4e963667a0376a37b7fb7df4b0f0d2e1c443132c",
+      "bytes": 929335,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P483778",
+      "slot": 2,
+      "path": "assets/W1151P483778/02.jpg",
+      "sha256": "607e80d64d4b53508ae13b5037428f96c4171144805d4657fe01d1c682283848",
+      "bytes": 768952,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P483778",
+      "slot": 3,
+      "path": "assets/W1151P483778/03.jpg",
+      "sha256": "bbfb18ff56f2c476c18492adc3df0f03ec0c39c76fe166cd7c0628e70b645479",
+      "bytes": 773460,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P483778",
+      "slot": 4,
+      "path": "assets/W1151P483778/04.jpg",
+      "sha256": "c4de2d93f690ccae0b872aef69dcdcd6ac0fddc5193d851847bd45d195d94f74",
+      "bytes": 846476,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P483778",
+      "slot": 5,
+      "path": "assets/W1151P483778/05.jpg",
+      "sha256": "e0315d89731b1074890bf9eaa30c6cf2d4733f0070f05d1c6510f165b09263c8",
+      "bytes": 827364,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P483778",
+      "slot": 6,
+      "path": "assets/W1151P483778/06.jpg",
+      "sha256": "4e6edc5638c54d7dbbd0da1c966276488b24591d8f732fa0955cf4c4904f34b7",
+      "bytes": 813289,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P483778",
+      "slot": 7,
+      "path": "assets/W1151P483778/07.jpg",
+      "sha256": "bd1cb65d8dcf90848f836aa80c9b3fff08f54f3c908ef546b93eb04483aa1aa0",
+      "bytes": 834983,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P483778",
+      "slot": 8,
+      "path": "assets/W1151P483778/08.jpg",
+      "sha256": "c67b19c34596405df70c65c317d871be5ed971f0ed8f3289e83fe1046d234249",
+      "bytes": 804940,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490192",
+      "slot": 1,
+      "path": "assets/W1151P490192/01.jpg",
+      "sha256": "55ef02416e86adbe7970519e0c0a3eb2efa42fa5480998bd2ca5d7847a3bc59b",
+      "bytes": 990980,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490192",
+      "slot": 2,
+      "path": "assets/W1151P490192/02.jpg",
+      "sha256": "ed0520203889cd69dd671d46d4e7cd1d2e991bb1273cb03777e61174562b6e8b",
+      "bytes": 894193,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490192",
+      "slot": 3,
+      "path": "assets/W1151P490192/03.jpg",
+      "sha256": "d9202ccdd25283b9b526b37c29f47457b0bce6d6c393bcf1cdb94980405f1da6",
+      "bytes": 886055,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490192",
+      "slot": 4,
+      "path": "assets/W1151P490192/04.jpg",
+      "sha256": "50f27a8c2a6a8383afe855611211cf9c82f887b9bdb4dd6a5705a37c5428ae4d",
+      "bytes": 878218,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490192",
+      "slot": 5,
+      "path": "assets/W1151P490192/05.jpg",
+      "sha256": "baefe6e50055ed725727a0ad99b28ebf333b8ce0e71525c89353406d73e1f8f4",
+      "bytes": 883571,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490192",
+      "slot": 6,
+      "path": "assets/W1151P490192/06.jpg",
+      "sha256": "cfe68e4f31980e20ac0a9d261ef89c9d033d13576e67567e5d3b0074efde92ae",
+      "bytes": 863639,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490192",
+      "slot": 7,
+      "path": "assets/W1151P490192/07.jpg",
+      "sha256": "bf9a39af92e954a1daf1aafdf1d64d37a8dff921bda1a37233e6c99b836adeeb",
+      "bytes": 1037165,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490192",
+      "slot": 8,
+      "path": "assets/W1151P490192/08.jpg",
+      "sha256": "5ffd5cbcf3f2fa23d3d9d7c189433cfe8f5711aca5ce7312fad01ea732b38ac7",
+      "bytes": 908270,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490193",
+      "slot": 1,
+      "path": "assets/W1151P490193/01.jpg",
+      "sha256": "b67906377c9e0a7ff79307f3961623623fb4fe110bd775c29bd2820fb53bb9f3",
+      "bytes": 1014655,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490193",
+      "slot": 2,
+      "path": "assets/W1151P490193/02.jpg",
+      "sha256": "ed8ccf10c6684a94ec244b2e9908c086525daa110dfc66f5bbd9e6731b3a8b48",
+      "bytes": 886125,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490193",
+      "slot": 3,
+      "path": "assets/W1151P490193/03.jpg",
+      "sha256": "26e4f8048d4af0db614dbd884e410594a8f7feab442a4b9111a20f5cff3ff683",
+      "bytes": 982388,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490193",
+      "slot": 4,
+      "path": "assets/W1151P490193/04.jpg",
+      "sha256": "20aaafa78b07923d6b4e456cee455613460c5d0deefa4b2c2a08393d34a79740",
+      "bytes": 956434,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490193",
+      "slot": 5,
+      "path": "assets/W1151P490193/05.jpg",
+      "sha256": "48185e42448ce02ec48991903539229792abfdfc5552ad34d63c0b73db461c46",
+      "bytes": 936255,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490193",
+      "slot": 6,
+      "path": "assets/W1151P490193/06.jpg",
+      "sha256": "d0fd52ded38751656556eab05101f38815b6358502e9afa118d96618c0e90f8c",
+      "bytes": 904737,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490193",
+      "slot": 7,
+      "path": "assets/W1151P490193/07.jpg",
+      "sha256": "d4efe738e3832c7500c9669f88b7936835b0a00b0286832847a6e7d6daa019b6",
+      "bytes": 950535,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P490193",
+      "slot": 8,
+      "path": "assets/W1151P490193/08.jpg",
+      "sha256": "2cb9ef1c8dc18b6d49aef83be0e65172775fdfc2a584324e4e38cb71f49ac844",
+      "bytes": 866921,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P494811",
+      "slot": 1,
+      "path": "assets/W1151P494811/01.jpg",
+      "sha256": "8948bf8006c8edd17dc49ecbacd6897da8bbdd502773249b31bc91bc1d5e7aa1",
+      "bytes": 962556,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P494811",
+      "slot": 2,
+      "path": "assets/W1151P494811/02.jpg",
+      "sha256": "fbb99b4dc554a295df1587fe7148cb8a71a0bec6a5042de14f1173c781e0857f",
+      "bytes": 776285,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P494811",
+      "slot": 3,
+      "path": "assets/W1151P494811/03.jpg",
+      "sha256": "2db6bbe2d784f52e1bfc1fe19747c557cc54375c5e2623fe99b19c15b51776f8",
+      "bytes": 877280,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P494811",
+      "slot": 4,
+      "path": "assets/W1151P494811/04.jpg",
+      "sha256": "82eedcc4f19f073c06f1e9ee23492272646f629ff560a054c7da86061158eb9f",
+      "bytes": 799940,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P494811",
+      "slot": 5,
+      "path": "assets/W1151P494811/05.jpg",
+      "sha256": "79b4e104433d38465459b3a7d368fe1fa4a24520befa645edc3ed28f4fac7836",
+      "bytes": 933753,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P494811",
+      "slot": 6,
+      "path": "assets/W1151P494811/06.jpg",
+      "sha256": "949f7c5ecf55567ef6521044544aa1e0d993831f2656b07145df9ceb043e32d4",
+      "bytes": 845313,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P494811",
+      "slot": 7,
+      "path": "assets/W1151P494811/07.jpg",
+      "sha256": "46d024dedf1f3c9b367e67c58504e23f15c6fc95ffc410456d83532cb67f4c3c",
+      "bytes": 816882,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P494811",
+      "slot": 8,
+      "path": "assets/W1151P494811/08.jpg",
+      "sha256": "7b87707e6ca13330ec527aa7c868f0e1bc7055fdcae63af798a299ae7ca66db1",
+      "bytes": 769973,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P501553",
+      "slot": 1,
+      "path": "assets/W1151P501553/01.jpg",
+      "sha256": "5ade087494818875c55386e443ea532be3e2d63fc31bb5063d6c51ead837c45f",
+      "bytes": 927750,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P501553",
+      "slot": 2,
+      "path": "assets/W1151P501553/02.jpg",
+      "sha256": "efdf8a613cf46355e3e57efa797a2346454ea94349b4d59c63d9adcae1bf8535",
+      "bytes": 891132,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P501553",
+      "slot": 3,
+      "path": "assets/W1151P501553/03.jpg",
+      "sha256": "e387d4a46de536105d1121d8b7e4161bb994a54866da60292c7efb0e8cef2dbd",
+      "bytes": 848746,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P501553",
+      "slot": 4,
+      "path": "assets/W1151P501553/04.jpg",
+      "sha256": "2a44c9aacbaeb7280c04c2d883e88c27cf132b96c81491a64a9441ce26f913ca",
+      "bytes": 844853,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P501553",
+      "slot": 5,
+      "path": "assets/W1151P501553/05.jpg",
+      "sha256": "fc8adece959297d30be442427bf74700321d0d904512a8347e2727a854246570",
+      "bytes": 785641,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P501553",
+      "slot": 6,
+      "path": "assets/W1151P501553/06.jpg",
+      "sha256": "5eb65002d4fecb918e8684e9f2eb126ca961209084818922bffa57bbf6ee2648",
+      "bytes": 926561,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P501553",
+      "slot": 7,
+      "path": "assets/W1151P501553/07.jpg",
+      "sha256": "1287b9a9eb32372bd870722d65c2de597a23670a7d6a843e899e5c92ef29e18a",
+      "bytes": 934519,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P501553",
+      "slot": 8,
+      "path": "assets/W1151P501553/08.jpg",
+      "sha256": "8bf8476a619ba2633ec3973cedcd1fe8d8d242397807ab56d9331581129509b9",
+      "bytes": 786514,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P503573",
+      "slot": 1,
+      "path": "assets/W1151P503573/01.jpg",
+      "sha256": "65cc7400755a81ac50f98127be3d19209f21567fd4188f4bbd0b67b2b3317b1b",
+      "bytes": 965821,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P503573",
+      "slot": 2,
+      "path": "assets/W1151P503573/02.jpg",
+      "sha256": "1a1277346f8abfeb11d34c6b1e622b538da52f7e2d94969cbdba22d1b67be257",
+      "bytes": 947125,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P503573",
+      "slot": 3,
+      "path": "assets/W1151P503573/03.jpg",
+      "sha256": "78faa90c0968417d5ff94b2f4d36adb5e4fb4f6d34d77aefac0d28727ca41be9",
+      "bytes": 942676,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P503573",
+      "slot": 4,
+      "path": "assets/W1151P503573/04.jpg",
+      "sha256": "347649e047417de90ed5bee39bef13a163f852e1818609857ae1251d58b3bcdd",
+      "bytes": 922336,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P503573",
+      "slot": 5,
+      "path": "assets/W1151P503573/05.jpg",
+      "sha256": "dfcf6f3be4f2a37d0552040e87c75a3858e8ec9e0fec57fc77f332571fcc8c3a",
+      "bytes": 910080,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P503573",
+      "slot": 6,
+      "path": "assets/W1151P503573/06.jpg",
+      "sha256": "c8a165fbff82be68fdb586635842d77a7081b4da47b4e4024b88ba0651b8fcad",
+      "bytes": 952827,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P503573",
+      "slot": 7,
+      "path": "assets/W1151P503573/07.jpg",
+      "sha256": "39b3236e6592c168e85d375fd7763f040564c462f612444ebd8cd3534d43ebf5",
+      "bytes": 966772,
+      "pixels": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "sku": "W1151P503573",
+      "slot": 8,
+      "path": "assets/W1151P503573/08.jpg",
+      "sha256": "3db527bd02b6867888da6c7dba3ac581545dc227d4af8ef757fa9af591a318a0",
+      "bytes": 905460,
+      "pixels": [
+        1254,
+        1254
+      ]
+    }
+  ]
+}
